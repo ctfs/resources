@@ -1,4 +1,21 @@
-ctf-docs
-========
+#CTF Docs
 
-A general collection of information, tools, and tips regarding CTFs and similar security competitions
+This repository aims to be an archive of information, tools, and references on CTF competitions.
+
+CTFs, especially for beginners, can be very daunting and almost impossible to approach. With some general overviews of common CTF subjects and more in-depth research and explanation in specific topics both beginners and veterans can learn, contribute, and collaborate together.
+
+##What is a CTF?
+
+CTFs are computer security/hacking competitions which generally consist of participants breaking, investigating, reverse engineering and doing anything they can to reach the end goal, a "flag" which is usually found as a string of text.
+
+[DEF CON](http://en.wikipedia.org/wiki/DEF_CON) hosts what is the most widely known CTF, as they occur annualy at the hacking conference in Las Vegas.  Many different competitions have branched off since then, and numerous ones are available year round.  One of the best places to see when CTFs are being scheduled is [ctftime](https://ctftime.org/), an active website which also includes team rankings.
+
+###Example
+
+A very simple type of CTF challenge is looking at the source code of websites to find flags or information.  For example, can you find the flag hidden on this page?
+
+<!-- flag: 2_l33t_4_M3 -->
+
+##Conclusion
+
+Now that you know the basics of CTFs, you can visit [ctftime](https://ctftime.org/) and try out a CTF!  Using your background knowledge and the information on this page you'll be able to develop a solid basis in computer security.
