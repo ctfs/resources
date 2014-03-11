@@ -16,6 +16,10 @@ A very simple type of CTF challenge is looking at the source code of websites to
 
 <!-- flag: 2_l33t_4_M3 -->
 
+##Moving On
+
+You may be able to solve some CTF challenges after looking through the documents in this repository and understanding the basics of the technologies and subjects covered, but you won't be very proficient or successful for long. To be an adept CTF competitor you have to be able to combine many different strategies and tools to find the flag.  This aspect takes practice more than anything, and participating in numerous CTFs will allow you to expand your understanding, abilities, and success.
+
 ##Conclusion
 
 Now that you know the basics of CTFs, you can visit [ctftime](https://ctftime.org/) and try out a CTF!  Using your background knowledge and the information on this page you'll be able to develop a solid basis in computer security.
