@@ -6,8 +6,11 @@ Cryptography [is the practice and study of techniques for secure communication i
 
 If you look around the folders in this page you should be able to find a suitable way to solve this simple cipher:
 
-```Hint: Julius Caesar's favorite cipher
-   kxn iye lbedec```
+```
+Hint: Julius Caesar's favorite cipher
+
+kxn iye lbedec
+```
 
 ##Sources/See More
 [Wikipedia and Cryptography](http://en.wikipedia.org/wiki/Cryptography)
