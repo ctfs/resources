@@ -18,16 +18,16 @@ Doing so for the whole original string creates a jumbled mess of incomprehensibl
 
 To give this to our friend, we would send him the final string with the instructions **right 3**, and either by hand, with a website, or with a script, he would be able to extract our extremely important message.
 
-##Detection
+##Detecting
 
 Caesar ciphers are usually presented in very low-point tasks, if at all, and can be easy to detect and check for.  Strings containing incomprehensibly jumbled letters can very likely be Caesar ciphers and should be checked.
 
-##Solution
+##Solving
 
 There are many approaches to cracking Caesar ciphers, but most commonly the best way to solve them is to write a script or run the string through a website (Options presented below) which will print out all the possible shifts of a string.  At that point the most comprehensible and logical solution can be chosen.
 
 ##Sources/See More
 
-[Wikipedia and Caesar Ciphers](http://en.wikipedia.org/wiki/Caesar_cipher)
+[Caesar Cipher](http://en.wikipedia.org/wiki/Caesar_cipher)
 
 [Quick and Simple Decryption Tool](http://www.xarg.org/tools/caesar-cipher)
