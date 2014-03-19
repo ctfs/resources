@@ -2,7 +2,7 @@
 
 This repository aims to be an archive of information, tools, and references regarding CTF competitions.
 
-CTFs, especially for beginners, can be very daunting and almost impossible to approach. With some general overviews of common CTF subjects and more in-depth research and explanation in specific topics both beginners and veterans can learn, contribute, and collaborate to learn and expand their knowledge.
+CTFs, especially for beginners, can be very daunting and almost impossible to approach. With some general overviews of common CTF subjects and more in-depth research and explanation in specific topics both beginners and veterans can learn, contribute, and collaborate to expand their knowledge.
 
 ##What is a CTF?
 
@@ -20,11 +20,11 @@ A very simple type of CTF challenge is looking at the source code of websites or
 
 These docs are organized broadly along the lines by which CTF tasks are organized.  Inside each folder is a README like this one explaining the basics of the technology and what the tasks generally involve. Alongside these READMES are folders with more information regarding specific technologies and topics.
 
-The best way to use these docs is to participate in an actual CTF! Join a CTF or attempt some old tasks and try to solve them.  Use the information in this repository to get you started solving them.  If you feel like there is insufficient information to help you solve a task, bring up an issue on this repository or try googling the task hints.
+The best way to use these docs is to participate in an actual CTF! Join a CTF or attempt some old tasks and try to solve them.  Use the information in this repository to get you started with finding some flags.  If you feel like there is insufficient information to help you solve a task, bring up an issue on this repository!
 
 ###Moving On
 
-You may be able to solve some CTF challenges after looking through the documents in this repository and understanding the basics of the technologies and subjects covered, but you won't be very proficient or successful for long. To be an adept CTF competitor you have to be able to combine many different strategies and tools to find the flag.  Developing the ability to find flags quickly takes practice more than anything, and participating in numerous CTFs will allow you to expand your understanding, abilities, and success.
+You may be able to solve some CTF challenges after looking through the documents in this repository and understanding the basics of the technologies and subjects covered, but you won't be very proficient or successful for long. To be an adept CTF competitor you have to be able to combine many different strategies and tools to find the flag.  Developing the ability to find flags quickly takes practice more than anything, and participating in numerous CTFs will allow you to expand your understanding and abilities, leading you to success.
 
 ##Conclusion
 
