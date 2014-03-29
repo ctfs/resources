@@ -16,7 +16,7 @@ Now the methods for solving the task can be presented. You can present standard 
 
 ##CTF Example
 
-Now that the topic has been detailed extensively, you can add [examples of where this tech has shown up in previous CTFs](http://en.wikipedia.org/wiki/Wikipedia:Good_articles).
+Now that the topic has been detailed extensively, you can add [examples of where this tech has shown up in previous CTFs](http://en.wikipedia.org/wiki/Wikipedia:Good_articles).shown
 
 ##Sources/See More
 

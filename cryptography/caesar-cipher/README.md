@@ -1,12 +1,8 @@
 #Caesar Cipher
 
-The [Caesar Cipher](http://en.wikipedia.org/wiki/Caesar_cipher) is a very simple and common encryption method which does not appear often in full-fledged CTFs but is a good basis for cryptography.
+The [Caesar Cipher](http://en.wikipedia.org/wiki/Caesar_cipher) is a very simple and common encryption method which does not appear often in full-fledged CTFs but forms part of the basis of cryptography. It simpley shifts a string of letters a certain number of positions up or down the alphabet.
 
-A Caesar Cipher is the shift of a string of letters a certain number of positions up or down the alphabet.
-
-###Example
-
-Let's say we want to encrypt the string `hello world` to give to our right-handed friend whose favorite number is 3.  We will shift our string **left 3**.
+Let's say we want to encrypt the string `hello world` to give to our friend whose favorite number is 3.  We will shift our string **left 3**.
 
 Taking the first letter `h` in our string and going 3 places up the alphabet(as it is a left shift) gives us the letter `e`. We then start our new, encrypted string with the letter.
 
@@ -16,17 +12,19 @@ Doing so for the whole original string creates a jumbled mess of incomprehensibl
 
 **Final:**    `ebiil tloia`
 
-To give this to our friend, we would send him the final string with the instructions **right 3**, and either by hand, with a website, or with a script, he would be able to extract our extremely important message.
+To let our friend read this, we would send him the final string with the instructions **right 3**, and either by hand, with a website, or with a script, he would be able to extract our message.
 
 ##Detecting
 
-Caesar ciphers are usually presented in very low-point tasks, if at all, and can be easy to detect and check for.  Strings containing incomprehensibly jumbled letters can very likely be Caesar ciphers and should be checked.
+Caesar ciphers are usually presented in very low-point tasks, if at all, and can be easy to detect and check for.  Strings containing incomprehensibly jumbled letters are possible Caesar ciphers and should be checked.
 
 ##Solving
 
-There are many approaches to cracking Caesar ciphers, but most commonly the best way to solve them is to write a script or run the string through a website (Options presented below) which will print out all the possible shifts of a string.  At that point the most comprehensible and logical solution can be chosen.
+There are many approaches to cracking Caesar ciphers, but usually the  best way to solve them is to write a script or run the string through [a website](http://www.xarg.org/tools/caesar-cipher) which will print out all the possible shifts of a string. From those results the  most comprehensible and logical solution can be chosen.
 
 ##CTF Example
+
+*To-do*
 
 ##Sources/See More
 
