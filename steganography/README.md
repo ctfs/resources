@@ -4,11 +4,11 @@ Steganography [is the art or practice of concealing a message, image, or file wi
 
 ###Example
 
-*To-Do*
+Images are a very common medium for steganography, as they are easy to manipulate and simple to view and transport. [Files in Images](files-in-images) give a good introduction for beginner steganography.
 
 ##Getting Started
 
-*To-Do*
+A rudimentary knowledge of media filetypes (e.g. jpg, bmp, png for pictures and wav, mp3 for sound) is essential to steganography, as understanding in what ways files can be hidden and obscured is crucial. Also, understanding basic linux is important, as a multitude of tools are specifically for bash.
 
 ##Sources/See More
 
