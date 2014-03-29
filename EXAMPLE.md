@@ -4,11 +4,7 @@ In this first section a simple description of what the topic is can be written u
 
 Here you can go into a little more depth about how the technology works and is used.  Some topics like public key cryptography, a complex and very math-based subject, can provide a simple overview of the technology and reference [more in-depth learning materials](https://developer.mozilla.org/en-US/docs/Introduction_to_Public-Key_Cryptography).
 
-At this point you might want to give an every-day example of the topic and how it works:
-
-###Example
-
-Here you can provide `code snippets`, links, and/or exercises for the reader to complete.  Usually generic and not very CTF-oriented.
+At this point you might want to give an every-day example of the topic and how it works, providing `code snippets`, links, and/or exercises for the reader to complete.  Usually generic and not very CTF-oriented.
 
 ##Detecting
 
