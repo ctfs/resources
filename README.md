@@ -1,4 +1,4 @@
-#CTF Docs
+#CTF Resources
 
 This repository aims to be an archive of information, tools, and references regarding CTF competitions.
 
@@ -16,7 +16,7 @@ A very simple type of CTF challenge is looking at the source code of websites or
 
 <!-- flag: 2_l33t_4_M3 -->
 
-##Using these Docs
+##Using These Docs
 
 These docs are organized broadly along the lines by which CTF tasks are organized.  Inside each folder is a README like this one explaining the basics of the technology and what the tasks generally involve. Alongside these READMES are folders with more information regarding specific technologies and topics.
 
