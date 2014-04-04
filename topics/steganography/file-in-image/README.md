@@ -38,7 +38,7 @@ Although it is possible and at times practical to solve these tasks using linux 
 
 ##CTF Example
 
-Steganography of this type is usually not scored very highly but decently widespread. BackdoorCTF 2014 created one which is generally straightforward, [ctfexample.jpg] (ctfexample.jpg), but involves multiple layers.
+Steganography of this type is usually not scored very highly but decently widespread. BackdoorCTF 2014 created one which is generally straightforward, [ctfexample.jpg](ctfexample.jpg), but involves multiple layers.
 
 ##Sources/See More
 
