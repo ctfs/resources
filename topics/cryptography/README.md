@@ -1,6 +1,8 @@
 #Cryptography
 
-Cryptography [is the practice and study of techniques for secure communication in the presence of third parties ](http://en.wikipedia.org/wiki/Cryptography) and in the case of CTFs the goal is usually to crack or clone cryptographic objects or algorithms to reach the flag.
+> Cryptography is the practice and study of techniques for secure communication in the presence of third parties. -- [Wikipedia](http://en.wikipedia.org/wiki/Cryptography) 
+
+In case of CTFs, the goal is usually to crack or clone cryptographic objects or algorithms to reach the flag.
 
 ###Example
 
