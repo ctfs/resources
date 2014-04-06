@@ -1,3 +1,3 @@
-#Tools
+# Tools
 
-All tools used through different topics should be detailed in this directory.
+All tools used in examples of different topics are detailed here.
