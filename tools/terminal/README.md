@@ -6,7 +6,7 @@ A terminal is where you will be spending a lot of time doing all sorts of stuff.
 
 ## Linux
 
-Luckily, all flavors of Linux come with a terminal built-in and you don't have to do much setup.
+Luckily, all flavors of Linux and OSX come with a terminal built-in and you don't have to do much setup.
 
 ## Windows
 
