@@ -28,6 +28,4 @@ There are many approaches to cracking Caesar ciphers, but usually the best way t
 
 ##Sources/See More
 
-[Caesar Cipher](http://en.wikipedia.org/wiki/Caesar_cipher)
-
-[Quick and Simple Decryption Tool](http://www.xarg.org/tools/caesar-cipher)
+[Brute force caeser cipher cracker](http://nayuki.eigenstate.org/page/automatic-caesar-cipher-breaker-javascript)

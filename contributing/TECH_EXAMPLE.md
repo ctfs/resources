@@ -20,13 +20,6 @@ Now that the topic has been detailed extensively, you can add [examples of where
 
 ##Sources/See More
 
-After citing sources above, you should cite them in this area, on top of having them linked in the text.
-For this article the citations would go as follows, in order of appearance:
+If you used any other sources that you did not link above, here is the place to add them:
 
-[Wikipedia on Wikipedia](http://en.wikipedia.org/wiki/Wikipedia)
-
-[Mozilla and Public Key Cryptography](https://developer.mozilla.org/en-US/docs/Introduction_to_Public-Key_Cryptography)
-
-[Writing a Wikipedia Article](http://en.wikipedia.org/wiki/Wikipedia:Starting_an_article)
-
-[Good Articles on Wikipedia](http://en.wikipedia.org/wiki/Wikipedia:Good_articles)
+[Github Markdown](https://help.github.com/articles/github-flavored-markdown)

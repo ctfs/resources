@@ -8,6 +8,7 @@ Reversing in the context of CTFs is usually the reverse engineering of software 
 
 ##Getting Started
 
+*To-Do*
 
 ##Sources/See More
 

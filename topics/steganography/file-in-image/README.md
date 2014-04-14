@@ -2,9 +2,9 @@
 
 One of the most common steganography tricks is to hide a file inside of an image.  The file will open normally as an image but will also hold hidden files inside, commonly zip, text, and even other image files.
 
-The reason this works is because when an image file is read it has starting and ending bytes dictating the size of the image.  The image viewer that you use will use the information between these bytes to present an image to you, ignoring anything before or after the terminating byte.
+The reason this works is because when an image file is read it has starting and ending bytes dictating the size of the image.  The image viewer that you use will use the information between these bytes to present an image to you, ignoring anything after the terminating byte.
 
-For example, The terminating byte for a JPEG is FF D9 in hex, so using a hex viewer ([xxd](http://linuxcommand.org/man_pages/xxd1.html) is good for linux, or something like [HxD](http://mh-nexus.de/en/hxd/) for windows) you can find out where the image finishes.  These bytes are sometimes hard to find in a sea of numbers though, so looking at the dump of the hex (the text representing the hex bytes on the left) can also help you find hidden .txt or .zip files.
+For example, The terminating byte for a JPEG is FF D9 in hex, so using a hex viewer ([xxd](http://linuxcommand.org/man_pages/xxd1.html) is good for linux, or something like [HxD](http://mh-nexus.de/en/hxd/) for windows) you can find out where the image finishes.  These bytes are sometimes hard to find in a sea of numbers though, so looking at the dump of the hex (the text representing the hex bytes) can also help you find hidden .txt or .zip files.
 
 ###Example
 

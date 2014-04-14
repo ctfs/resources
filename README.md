@@ -12,15 +12,15 @@ CTFs are computer security/hacking competitions which generally consist of parti
 
 ###Example
 
-A very simple type of CTF challenge is looking at the source code of websites or programs to find flags and/or hints.  For example, can you find the flag hidden on this page?
+A very simple type of CTF challenge consists of looking at the source code of websites or programs to find flags and/or hints.  For example, can you find the flag hidden on this page?
 
 <!-- flag: 2_l33t_4_M3 -->
 
 ##Using These Docs
 
-These docs are organized broadly along the lines by which CTF tasks are organized.  Inside each folder is a README like this one explaining the basics of the technology and what the tasks generally involve. Alongside these READMES are folders with more information regarding specific technologies and topics.
+These docs are organized broadly along the lines by which CTF tasks are organized.  Inside each folder in the topics section is a README like this one explaining the basics of the technology and what the tasks generally involve. Alongside these READMES are folders with more information regarding specific technologies and topics.  Many of these articles link to the [tools folder](tools), where more detailed explanations can be found for tehcnologies used throughout CTF competitions.
 
-The best way to use these docs is to participate in an actual CTF! Join a CTF or attempt some old tasks and try to solve them.  Use the information in this repository to get you started with finding some flags.  If you feel like there is insufficient information to help you solve a task, bring up an issue on this repository!
+The best way to use these docs is to participate in an actual CTF! Join a CTF or attempt some old tasks and try to solve them.  Use the information in this repository to get you started with finding some flags.  If you feel like there is insufficient information to help you solve a task, bring up an issue on this repository and someone can try to clarify it.
 
 ###Moving On
 
