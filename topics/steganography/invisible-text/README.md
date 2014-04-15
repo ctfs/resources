@@ -1,4 +1,4 @@
-# Invisible Text
+# Hidden Text in Images
 
 A simple steganography trick that is often used for watermarks instead of outright steganography is the act of hiding nearly invisible text in images.  The text can be hidden by making it nearly invisible (turning down it's opacity to below 5%) or using certain colors and filters on it.  Although the text is undiscernable to the naked eye, it is still there, and there are a variety of tools which allow the text to be extracted.
 
