@@ -7,5 +7,10 @@
     * [RSA](topics/cryptography/rsa/README.md)
 * [Steganography](topics/steganography/README.md)
     * [Files in Images](topics/steganography/file-in-image/README.md)
+    * [Hidden Text in Images](topics/steganography/invisible-text/README.md)
+* [Web](topics/web/README.md)
+    * [HTTP](topics/web/http/README.md)
+    * [PHP](topics/web/php/README.md)
+    * [SQL Injections](topics/web/sql-injections/README.md)
 * [Miscellaneous](topics/miscellaneous/README.md)
 

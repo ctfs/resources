@@ -1,1 +1,0 @@
-#HTTP (Hypertext Transfer Protocol)

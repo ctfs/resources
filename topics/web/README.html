@@ -3,7 +3,7 @@
     <head prefix="og: http://ogp.me/ns# book: http://ogp.me/ns/book#">
         
         <meta charset="UTF-8">
-        <title>Miscellaneous | CTF Resources</title>
+        <title>Web | CTF Resources</title>
 
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="robots" content="index, follow">
@@ -13,11 +13,13 @@
         <meta name="generator" content="www.gitbook.io">
 
         
+        <link rel="next" href="../../topics/web/http/README.html" />
         
-        <link rel="prev" href="../../topics/web/sql-injections/README.html" />
+        
+        <link rel="prev" href="../../topics/steganography/invisible-text/README.html" />
         
 
-        <meta property="og:title" content="Miscellaneous | CTF Resources">
+        <meta property="og:title" content="Web | CTF Resources">
         <meta property="og:site_name" content="CTF Resources">
         <meta property="og:type" content="book">
         <meta property="og:locale" content="en_US">
@@ -34,7 +36,7 @@
     </head>
     <body>
         
-    <div class="book" data-github="ctfs/resources" data-level="4" data-basepath="../.." data-revision="1397576885138">
+    <div class="book" data-github="ctfs/resources" data-level="3" data-basepath="../.." data-revision="1397576885138">
     <div class="book-header">
     <!-- Actions Left -->
     
@@ -70,7 +72,7 @@
             <a href="https://github.com/ctfs/resources/issues" target="blank">Questions and Issues</a>
         </li>
         <li>
-            <a href="https://github.com/ctfs/resources/edit/master/topics/miscellaneous/README.md" target="blank">Edit and Contribute</a>
+            <a href="https://github.com/ctfs/resources/edit/master/topics/web/README.md" target="blank">Edit and Contribute</a>
         </li>
         <li class="divider"></li>
         
@@ -206,7 +208,7 @@
             <div class="page-wrapper" tabindex="-1">
                 <div class="book-progress">
     <div class="bar">
-        <div class="inner" style="width: 100%;min-width: 92.3076923076923%;"></div>
+        <div class="inner" style="width: 69.23076923076923%;min-width: 61.53846153846154%;"></div>
     </div>
     <div class="chapters">
     
@@ -230,32 +232,34 @@
     
         <a href="../../topics/web/README.html" title="Web" class="chapter done new-chapter" data-progress="3" style="left: 69.23076923076923%;"></a>
     
-        <a href="../../topics/web/http/README.html" title="HTTP" class="chapter done " data-progress="3.1" style="left: 76.92307692307692%;"></a>
+        <a href="../../topics/web/http/README.html" title="HTTP" class="chapter  " data-progress="3.1" style="left: 76.92307692307692%;"></a>
     
-        <a href="../../topics/web/php/README.html" title="PHP" class="chapter done " data-progress="3.2" style="left: 84.61538461538461%;"></a>
+        <a href="../../topics/web/php/README.html" title="PHP" class="chapter  " data-progress="3.2" style="left: 84.61538461538461%;"></a>
     
-        <a href="../../topics/web/sql-injections/README.html" title="SQL Injections" class="chapter done " data-progress="3.3" style="left: 92.3076923076923%;"></a>
+        <a href="../../topics/web/sql-injections/README.html" title="SQL Injections" class="chapter  " data-progress="3.3" style="left: 92.3076923076923%;"></a>
     
-        <a href="../../topics/miscellaneous/README.html" title="Miscellaneous" class="chapter done new-chapter" data-progress="4" style="left: 100%;"></a>
+        <a href="../../topics/miscellaneous/README.html" title="Miscellaneous" class="chapter  new-chapter" data-progress="4" style="left: 100%;"></a>
     
     </div>
 </div>
 
                 <div class="page-inner">
                 
-                    <section class="normal" id="section-gitbook_7">
+                    <section class="normal" id="section-gitbook_11">
                     
-                        <h1 id="miscellaneous">Miscellaneous</h1>
-<p>Many challenges in CTFs will be completely random and unprecedented, requiring simply logic, knowledge, and patience to be solved.  There is no sure-fire way to prepare for these, but as you complete more CTFs you will be able to recognize and hopefully have more clues on how to solve them.</p>
-<h3 id="examples">Examples</h3>
-<p>In recent CTFs the sheer variety of miscellaneous tasks has been highly exemplified, for example:</p>
-<ul>
-<li>In the <a href="https://ctftime.org/event/130" target="_blank">Sochi Olympic CTF 2014</a>, there was a <a href="https://github.com/ctfs/write-ups/tree/master/olympic-ctf-2014/crypting" target="_blank">low-point miscellaneous challenge</a> which only provided a jumbled string of words. Instead of being a typical crypto challenge, the answer required competitors to draw out the word SOCHI on their keyboards.</li>
-<li><a href="https://ctftime.org/event/122" target="_blank">RuCTF</a> had a challenge which presented a <a href="https://github.com/ctfs/write-ups/tree/master/ructf-2014-quals/misc-100" target="_blank">single picture of shredded strips of paper jumpled up in a random order</a>.  The best way of solving this was by hand! No computer knowledge was even needed for its completion, only patience and a good eye.</li>
-</ul>
+                        <h1 id="web">Web</h1>
+<p>Web challenges in CTF competitions usually involve the use of HTTP (or similar protocols) and technologies involved in information transfer and display over the internet like PHP, CMS&#39;s (e.g. Django), SQL, Javascript, and more.  There are many tools used to access and interact with the web tasks, and choosing the right one is a major facet of the challenges. Although web browsers are the most common and well known way of interacting with the internet, tools like <code>curl</code> and <code>nc</code> allow for extra options and parameters to be passed and utilized.</p>
+<h3 id="example">Example</h3>
+<p><em>To-Do (need a website/server)</em></p>
+<h2 id="getting-started">Getting Started</h2>
+<h3 id="command-line-and-the-web">Command Line and the Web</h3>
+<p>If you are running linux and want extended functionality (like passing custom headers) in web challenges, bash (terminal) commands are your best bet.  <code>cURL</code> is a simple but extensible <a href="http://en.wikipedia.org/wiki/CURL" target="_blank">command-line tool for transferring data using various protocols</a>, and allows users to use HTTP to interact with servers, including <a href="http://en.wikipedia.org/wiki/HTTP#Request_methods" target="_blank">POST and GET methods</a>.</p>
+<h4 id="example">Example</h4>
+<p>To see <code>curl</code> at work, you can simply run <code>curl 8.8.8.8</code> (Google), and the html of Google&#39;s home page should appear.</p>
+<p>There are many other options and flags that can be passed to <code>curl</code>, making it an extremely useful tool in CTFs</p>
 <h2 id="sources-see-more">Sources/See More</h2>
-<p><a href="https://github.com/ctfs/write-ups" target="_blank">CTF Write-Ups</a></p>
-<p><a href="https://ctftime.org/ctfs" target="_blank">CTFTime</a></p>
+<p><a href="http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol" target="_blank">HTTP</a></p>
+<p><a href="http://en.wikipedia.org/wiki/CURL" target="_blank">cURL</a></p>
 
                     
                     </section>
@@ -265,8 +269,10 @@
         </div>
 
         
-        <a href="../../topics/web/sql-injections/README.html" class="navigation navigation-prev"><i class="fa fa-angle-left"></i></a>
+        <a href="../../topics/steganography/invisible-text/README.html" class="navigation navigation-prev"><i class="fa fa-angle-left"></i></a>
         
+        
+        <a href="../../topics/web/http/README.html" class="navigation navigation-next"><i class="fa fa-angle-right"></i></a>
         
     </div>
 </div>
