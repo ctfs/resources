@@ -15,3 +15,5 @@ Reversing in the context of CTFs is usually the reverse engineering of software 
 [File command](http://unixhelp.ed.ac.uk/CGI/man-cgi?file)
 
 [IDA](https://www.hex-rays.com/products/ida/)
+
+[Reverse engineering for beginners](https://github.com/dennis714/RE-for-beginners)
