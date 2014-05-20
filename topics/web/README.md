@@ -10,7 +10,7 @@ Web challenges in CTF competitions usually involve the use of HTTP (or similar p
 
 ###Command Line and the Web
 
-If you are running linux and want extended functionality (like passing custom headers) in web challenges, bash (terminal) commands are your best bet.  `cURL` is a simple but extensible [command-line tool for transferring data using various protocols](http://en.wikipedia.org/wiki/CURL), and allows users to use HTTP to interact with servers, including [POST and GET methods](http://en.wikipedia.org/wiki/HTTP#Request_methods).
+If you are running linux and want extended functionality (like passing custom headers) in web challenges, bash (terminal) commands are your best bet.  `cURL` is a simple but extensible [command-line tool for transferring data using various protocols](http://en.wikipedia.org/wiki/CURL), and allows users to use HTTP to interact with servers, including [POST and GET methods](http://en.wikipedia.org/wiki/HTTP#Request_methods). Additionally, some challenges will be accessed through interactive processes, which can be connected to with programs like [netcat](https://en.wikipedia.org/wiki/Netcat) or [telnet](https://en.wikipedia.org/wiki/Telnet).
 
 ####Example
 
