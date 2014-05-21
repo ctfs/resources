@@ -8,7 +8,7 @@ CTF challenges are usually categorized into one of these broad groups, and altho
 
 3. If the file is a jumbled text file, it is most likely a [cryptography](./cryptography/) challenge.
 
-4. If the file provided is not readily identifiable, the best tool to use is the `file` command in the command line, which tells you what type of file it is.
+4. If the file provided is not readily identifiable, the best tool to use is the [file](../tools/file/README.md) command, which tells you what type of file it is.
 
     * If the file output is PCAP or relating to packets, the challenge is a [web](./web) one.
 
