@@ -6,9 +6,9 @@ CTFs, especially for beginners, can be very daunting and almost impossible to ap
 
 ##Quick Start
 
-1. First time? Read down below to learn more about CTFs, and then use the resources in the [topics](./topics/) directory to try to solve challenges on websites like [OverTheWire](http://overthewire.org/wargames/) or [CanYouHack.it](http://canyouhack.it/) and later on [ctftime](https://ctftime.org/).
+1. First time? Read down below to learn more about CTFs, and then use the resources in the [topics](./topics/) directory to try to solve challenges on websites like [OverTheWire](http://overthewire.org/wargames/) or [CanYouHack.it](http://canyouhack.it/).
 
-2. Beginner? Use the guides found in the [topics](./topics/) directory to try to find out what type of challenges you are presented with and participate in some of the CTFs presented on [ctftime](https://ctftime.org/).
+2. Beginner? Use the guides found in the [topics](./topics/) directory to try to find out what type of challenges you are presented with and participate in some of the CTFs on [ctftime](https://ctftime.org/).
 
 3. Intermediate? Navigate straight to the topic you are interested in to find extra online resources to help you solve more complex challenges.
 
@@ -18,7 +18,7 @@ CTFs, especially for beginners, can be very daunting and almost impossible to ap
 
 CTFs are computer security/hacking competitions which generally consist of participants breaking, investigating, reverse engineering and doing anything they can to reach the end goal, a "flag" which is usually found as a string of text.
 
-[DEF CON](http://en.wikipedia.org/wiki/DEF_CON) hosts what is the most widely known and first major CTF, occuring annualy at the hacking conference in Las Vegas.  Many different competitions have branched off since then, and numerous ones are available year round.  One of the best places to see when CTFs are being scheduled is [ctftime](https://ctftime.org/), an active website with calendars and team rankings.
+[DEF CON](http://en.wikipedia.org/wiki/DEF_CON) hosts what is the most widely known and first major CTF, occurring annually at the hacking conference in Las Vegas.  Many different competitions have branched off since then, and numerous ones are available year round.  One of the best places to see when CTFs are being scheduled is [ctftime](https://ctftime.org/), an active website with calendars and team rankings.
 
 ###Example
 

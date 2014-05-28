@@ -1,21 +1,13 @@
 #RSA
 
-*To-do*
+RSA is a public-key cryptosystem which uses a public-private key pair to encrypt and decrypt information securely.
 
-##Detecting
+##Use
 
-*To-do*
+* RSA library in [python](https://pypi.python.org/pypi/rsa) with easy to use [docs](http://stuvel.eu/files/python-rsa-doc/usage.html)
 
-##Solving
+* [Thorough explanation](http://www.muppetlabs.com/~breadbox/txt/rsa.html) of RSA with a [simple crack example](http://www.muppetlabs.com/~breadbox/txt/rsa.html#13)
 
-*To-do*
+##More
 
-##CTF Example
-
-BackdoorCTF 2014 had an RSA challenge which simply provided a [public key](ctfexample-key.pub) and encrypted [text file](ctfexample-text.txt).
-
-The solution can be found [here](http://singularityctf.blogspot.ru/2014/03/backdoorctf-2014-writeup-crypto-100-eng.html).
-
-##Sources/See More
-
-[CTF Write-up](http://singularityctf.blogspot.ru/2014/03/backdoorctf-2014-writeup-crypto-100-eng.html)
+[RSA](https://en.wikipedia.org/wiki/RSA_algorithm)

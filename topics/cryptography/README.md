@@ -4,15 +4,15 @@
 
 1. Is the text relatively small? a few sentences?
 
-    * Is the text 32 characters long? This is most likely an [md5](./md5/) hash
+    * Is the text 32 characters long? Most likely an [md5](./md5/) hash
 
-    * Is it 40 characters long? Most likely a [SHA1](./sha1/) hash
+    * 40 characters long? Most likely a [SHA1](./sha1/) hash
 
-    * Are there equal signs spread out through the text and often next to each other? Probably a [base64](./base64/) encoded string
+    * Are there equal signs spread out through the text, often next to each other? Probably a [base64](./base64/) encoded string
 
-    * Is the text only letters?
+    * Is the text only letters, without numbers or special characters?
 
-        * Check if it is a [Caesar](./caesar-cipher/) or [Vigenere](./vigenere-cipher/) cipher
+        * Check if it is a [Caesar](./caesar-cipher/), [Vigenere](./vigenere-cipher/), or other type of cipher
 
     * Rarely, it may be a keyboard map as found in the [Olympic CTF 2014](https://github.com/ctfs/write-ups/tree/master/olympic-ctf-2014/crypting)
 

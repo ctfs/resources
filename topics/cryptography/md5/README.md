@@ -1,6 +1,6 @@
 #MD5 Hashing
 
-MD5 is hashing function which creates a 16-byte hash value (usually represented as a 32 digit hexadecimal number) from any file.
+MD5 is a hashing function which creates a 16-byte hash value (usually represented as a 32 digit hexadecimal number) from any file.
 
 #Use
 
