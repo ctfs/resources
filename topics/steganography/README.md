@@ -1,6 +1,8 @@
 #Steganography
 
-1. If the file is an image, see [File in an Image](./file-in-image/) or [Hidden Text](./invisible-text/]
+##Quick Start
+
+* If the file is an image, see [File in an Image](./file-in-image/) or [Hidden Text](./invisible-text/]
 
 ##About
 

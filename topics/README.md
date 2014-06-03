@@ -10,8 +10,10 @@ CTF challenges are usually categorized into one of these broad groups, and altho
 
 4. If the file provided is not readily identifiable, the best tool to use is the [file](../tools/file/README.md) command, which tells you what type of file it is.
 
-    * If the file output is PCAP or relating to packets, the challenge is a [web](./web) one.
+    * If the file output is PCAP or relating to packets or the web, the challenge is likely a [web](./web) one.
 
     * If the file output is an ELF file, it is most likely a [reversing](./reversing/) challenge.
 
     * If the file output is an executable, it is most likely a [reversing](./reversing/) challenge.
+
+    * Last resort, google the output of the `file` command on the file
