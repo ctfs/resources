@@ -2,7 +2,7 @@
 
 ## Quick Start
 
-1. Is the text relatively small? a few sentences?
+* Is the text relatively small? a few sentences?
 
     * Is the text 32 characters long? Most likely an [md5](./md5/) hash
 
@@ -16,7 +16,7 @@
 
     * Rarely, it may be a keyboard map as found in the [Olympic CTF 2014](https://github.com/ctfs/write-ups/tree/master/olympic-ctf-2014/crypting)
 
-2. Any hints about keys? signing? most likely [RSA](./rsa/)
+* Any hints about keys? signing? most likely [RSA](./rsa/)
 
 
 ##About

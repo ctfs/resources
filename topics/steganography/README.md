@@ -2,7 +2,7 @@
 
 ##Quick Start
 
-* If the file is an image, see [File in an Image](./file-in-image/) or [Hidden Text](./invisible-text/]
+* If the file is an image, see [File in an Image](./file-in-image/) or [Hidden Text](./invisible-text/)
 
 ##About
 
