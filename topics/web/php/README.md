@@ -1,7 +1,7 @@
 #PHP
 
-PHP is [a server-side scripting language designed for web development](en.wikipedia.org/wiki/PHP).
+PHP is [a server-side scripting language designed for web development](http://en.wikipedia.org/wiki/PHP).
 
 ##More
 
-[PHP](en.wikipedia.org/wiki/PHP)
+[PHP](http://en.wikipedia.org/wiki/PHP)
