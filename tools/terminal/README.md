@@ -1,6 +1,6 @@
 # Terminal
 
-A terminal is the window where you can access multiple command-line interfaces, from the typical Bash shell to Python interpreter. Which emulator you choose is not very pertinent to CTFs, but if you are on windows you will have to go out of your way to find one.
+A terminal is the window where you can access multiple command-line interfaces, from the typical Bash shell to Python interpreter. Which emulator you choose is not very pertinent to CTFs, but if you are on windows you will have to go out of your way to find one. Common executables run inside terminal are /bin/sh (early shell), /bin/bash (bash shell), or /bin/dash (in Debian/Ubuntu systems, used because bash is too big basically)
 
 ## Linux
 
