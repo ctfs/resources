@@ -1,8 +1,8 @@
-#SHA1 Hash
+# SHA1 Hash
 
 SHA1 is a hash function which creates a 20-byte hash value (usually represented by a 40 digit hexadecimal number) from any file.
 
-##Use
+## Use
 
 * Create a hash:
 
@@ -14,6 +14,6 @@ SHA1 is a hash function which creates a 20-byte hash value (usually represented 
 
     * Online [here](http://www.stringfunction.com/sha1-decrypter.html)
 
-##More
+## More
 
 [SHA1](https://en.wikipedia.org/wiki/Sha1)

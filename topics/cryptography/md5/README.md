@@ -1,8 +1,8 @@
-#MD5 Hashing
+# MD5 Hashing
 
 MD5 is a hashing function which creates a 16-byte hash value (usually represented as a 32 digit hexadecimal number) from any file.
 
-#Use
+# Use
 
 * Create a hash:
 
@@ -14,6 +14,6 @@ MD5 is a hashing function which creates a 16-byte hash value (usually represente
 
     * Online [here](http://www.md5decrypter.co.uk/)
 
-##More
+## More
 
 [MD5](https://en.wikipedia.org/wiki/Md5)
