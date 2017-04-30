@@ -1,4 +1,4 @@
-#Hiding a file in an image
+# Hiding a file in an image
 
 One of the most common steganography tricks is to hide a file inside of an image.  The file will open normally as an image but will also hold hidden files inside, commonly zip, text, and even other image files.
 
@@ -6,7 +6,7 @@ The reason this works is because when an image file is read it has starting and 
 
 For example, The terminating byte for a JPEG is FF D9 in hex, so using a hex viewer ([xxd](http://linuxcommand.org/man_pages/xxd1.html) is good for linux, or something like [HxD](http://mh-nexus.de/en/hxd/) for windows) you can find out where the image finishes.  These bytes are sometimes hard to find in a sea of numbers though, so looking at the dump of the hex (the text representing the hex bytes) can also help you find hidden .txt or .zip files.
 
-###Example
+### Example
 
 A very simple implementation of this strategy is used in the [example.jpg](example.jpg) file in this directory. If you save it to your computer and open it up with an image viewer, you should be presented with a simple jpg image.
 
@@ -28,19 +28,19 @@ This takes in the image example.jpg, the 'in file' if, reads one block at a time
 
 This is the long way of solving a simple steganography problem but shows how the strategy works. In the Solving section more concise and efficient methods are described.
 
-##Detecting
+## Detecting
 
 These challenges are usually presented as a simple picture with no other instructions, and it is up to the competitor to run it through a hex editor to find out if it involves steganography.  If you are presented with an image and no instructions, your safest bet is that is has something hidden after the closing tags of the image.
 
-##Solving
+## Solving
 
 Although it is possible and at times practical to solve these tasks using linux tools like `dd`, there are some tools that make it much easier. [`Binwalk`](http://binwalk.org/) is an immensely useful tool which automatically detects and extracts files hidden with steganography tools
 
-##CTF Example
+## CTF Example
 
 Steganography of this type is usually not scored very highly but is decently widespread. BackdoorCTF 2014 created one which is generally straightforward, [ctfexample.jpg](ctfexample.jpg), but involves multiple layers.
 
-##Sources/See More
+## Sources/See More
 
 [XXD](http://linuxcommand.org/man_pages/xxd1.html)
 
