@@ -6,7 +6,7 @@ CTFs, especially for beginners, can be very daunting and almost impossible to ap
 
 ## Quick Start
 
-1. First time? [READ THIS!](http://trailofbits.github.io/ctf/) and then the section below. Once you understand the basics, use the resources in the [topics](./topics/) directory to try to solve challenges on websites like [OverTheWire](http://overthewire.org/wargames/) or [CanYouHack.it](http://canyouhack.it/).
+1. First time? [READ THIS!](http://trailofbits.github.io/ctf/) and then the section below. Once you understand the basics, use the resources in the [topics](./topics/) directory to try to solve challenges on websites like [OverTheWire](http://overthewire.org/wargames/) or [CanYouHack.it](https://www.wechall.net/site/details/65/CanYouHack.It).
 
 2. Beginner? Use the guides found in the [topics](./topics/) directory to try to find out what type of challenges you are presented with and participate in some of the CTFs on [ctftime](https://ctftime.org/).
 
