@@ -46,6 +46,6 @@ Steganography of this type is usually not scored very highly but is decently wid
 
 [HxD](http://mh-nexus.de/en/hxd/)
 
-[DD](http://en.wikipedia.org/wiki/Dd_(Unix)
+[DD](https://en.wikipedia.org/wiki/Dd_%28Unix%29)
 
 [Binwalk](http://binwalk.org/)
