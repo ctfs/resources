@@ -11,3 +11,11 @@ Reversing in the context of CTFs is usually the reverse engineering of software 
 ## Getting Started
 
 * [Reverse Engineering for Beginners](https://github.com/dennis714/RE-for-beginners) - an extremely well-written and verbose free book which explains multiple CPU instruction sets and methods for writing and understanding them.
+
+## Tools
+
+* gdb: Basic debugger (+gef/peda)
+
+* objdump: Very basic disassembler
+
+* ghidra: Sophisticated disassembler that can also decompile code ([link](https://ghidra-sre.org/))
