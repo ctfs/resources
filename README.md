@@ -12,7 +12,7 @@ CTFs, especially for beginners, can be very daunting and almost impossible to ap
 
 3. Intermediate? Navigate straight to the topic you are interested in to find extra online resources to help you solve more complex challenges.
 
-4. Master? Help improve this repository! Have a new type of vulnerability you want to explain? Write about it and how to use it!  Have a new tool people can use? add it to the tools directory!
+4. Master? Help improve this repository! Have a new type of vulnerability you want to explain? Write about it and how to use it!  Have a new tool people can use? Add it to the tools directory!
 
 ## What are CTFs?
 
