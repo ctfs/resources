@@ -10,7 +10,7 @@ Reversing in the context of CTFs is usually the reverse engineering of software 
 
 ## Getting Started
 
-* [Reverse Engineering for Beginners](https://github.com/dennis714/RE-for-beginners) - an extremely well-written and verbose free book which explains multiple CPU instruction sets and methods for writing and understanding them.
+* [Reverse Engineering for Beginners](https://mirrors.ocf.berkeley.edu/parrot/misc/openbooks/programming/ReverseEngineeringForBeginners.en.pdf) - an extremely well-written and verbose free book which explains multiple CPU instruction sets and methods for writing and understanding them.
 
 ## Tools
 
