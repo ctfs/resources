@@ -8,6 +8,8 @@ CTF challenges are usually categorized into one of these broad groups, and altho
 
 * If the file is a jumbled text file, it is most likely a [cryptography](./cryptography/) challenge.
 
+* If the challenge provides C source code and an ELF file, it is most likely a [binary exploitation](./binary-exploitation) challenge.
+
 * If the file provided is not readily identifiable, the best tool to use is the [file](../tools/file/README.md) command, which tells you what type of file it is.
 
     * If the file output is PCAP or relating to packets or the web, the challenge is likely a [web](./web) one.
