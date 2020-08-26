@@ -4,7 +4,7 @@
 
 * Learn:
 
-    * Good [introduction and database](https://www.owasp.org/index.php/SQL_injection) of SQL injections
+    * Good [introduction and database](https://owasp.org/www-community/attacks/SQL_Injection) of SQL injections
 
 ## More
 
